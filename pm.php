@@ -19,6 +19,6 @@ if (!function_exists('curl_setopt_array')) {
 	$out['result'] = $result;
 	echo json_encode($out, true);
 } else {
-	echo 'bad request';
+	echo 'install ok. waiting command.';
 }
 ?>
