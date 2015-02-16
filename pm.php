@@ -21,3 +21,4 @@ if (!function_exists('curl_setopt_array')) {
 } else {
 	echo 'bad request';
 }
+?>
