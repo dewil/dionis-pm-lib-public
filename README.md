@@ -13,7 +13,7 @@
 ## Какие требования к хостингу? ##
 На хостинге нужен PHP ver 5 и выше с модулями [php-curl](https://php.net/manual/ru/curl.installation.php) и [php-json](https://php.net/manual/ru/json.installation.php)
 ## Как это сделать? ##
-[Скачайте](https://bitbucket.org/dewil/pm/raw/8b11a7bd3be2bce601cef5f5e1085c8b88275978/pm.php) скрипт по прямой ссылке и положите в любую папку вашего сайта.
+[Скачайте](https://bitbucket.org/dewil/pm/raw/3dbc0430f97ebda626a2ef2860a3528de4fc16cf/pm.php) скрипт по прямой ссылке и положите в любую папку вашего сайта.
 
 ## Благодарность ##
 Спасибо за вашу помощь!
