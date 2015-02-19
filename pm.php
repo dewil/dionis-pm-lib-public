@@ -2,7 +2,7 @@
 
 /*
  * pm library
- * ver 1.01 2015-02-18
+ * ver 1.02 2015-02-19
  * @author dwl dewil@dewil.ru
  * @package
 */
@@ -21,6 +21,6 @@ if (!function_exists('curl_setopt_array')) {
 	$out['result'] = $result;
 	echo json_encode($out, true);
 } else {
-	echo 'install ok. waiting command...';
+	echo 'install ok. ready.';
 }
 ?>
